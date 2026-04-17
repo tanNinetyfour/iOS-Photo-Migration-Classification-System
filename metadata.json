@@ -1,0 +1,5 @@
+{
+  "name": "iOS Photo Migration Classification System",
+  "description": "自动化整理从iPhone导出到本地的照片和视频，包括去重、视频提取、清理AAE文件及按时间重命名。",
+  "requestFramePermissions": []
+}
